@@ -1,18 +1,28 @@
-# Daily Learning
+# Day 1
 
-- Just Exploring
+## Introduction
+Welcome to Day 1 of our Markdown journey! In this file, we will explore the **basics** of Markdown formatting.
 
-## Morning Planning
-<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+## Key Features
 
-- [x] Check out the [github blog](https://github.blog/) for topic ideas.
-- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
-- [ ] Convert my first blog post into an actual webpage.
+### 1. Text Formatting
+- **Bold Text**: Use `**` for bold text.
+- _Italic Text_: Use `_` or `*` for italic text.
+- `Code Formatting`: Use backticks to format code snippets.
 
-## Review
-Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
+### 2. Creating Lists
+- Unordered lists are created by using `-`, `*`, or `+`.
+- Ordered lists are created by using numbers followed by a period, like `1. Item`
 
-```bash
-ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
-```
+### 3. Blockquotes
+> Blockquotes are a way to highlight important information.
 
+For example, you could say:
+> "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+
+### 4. Links and Images
+- **Links**: Use `[link text](URL)` to create hyperlinks.
+- **Images**: Use `![alt text](image URL)` to add images.
+
+## Conclusion
+Markdown is a powerful tool for formatting text easily and efficiently. With these features, you can create rich documents with minimal effort!
